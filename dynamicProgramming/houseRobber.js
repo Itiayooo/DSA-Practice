@@ -12,4 +12,3 @@ function rob(nums) {
     return prev1;
 }
 
-console.log(rob([2, 7, 9, 3, 1])); // 12
